@@ -7,6 +7,9 @@ Many students don’t seek help because counseling resources are limited or they
 # Presentation Link (Youtube)
 https://youtu.be/bWvlD6wMlFk
 
+# Prototype (Figma)
+https://www.figma.com/design/rvuYjtUH1EDtKYziVprZKn/MindNest---Hackathon-CodeNection?node-id=0-1&t=0UWOEPIL8cfp50Tq-1
+
 # Slides
 [MindNest Slides.pdf](https://github.com/user-attachments/files/22188860/MindNest.Slides.pdf)
 
